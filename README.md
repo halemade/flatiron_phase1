@@ -13,6 +13,6 @@
   <a href="#download">Topic 3</a> •
   <a href="#credits">Topic 4</a> •
   <a href="#related">Topic 5</a> •
-  <a href="#related">Topic 6/a> •
+  <a href="#related">Topic 6</a> •
   <a href="#related">Topic 7</a> •
 </p>
