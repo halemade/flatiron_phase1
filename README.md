@@ -5,4 +5,4 @@
  Flatiron School Data Science
   <br>
 </h1>
-<h4 align="center"> Keeping a record of my work. </h4>
+<h4 align="center"> PHASE 1: Keeping a record of my work. </h4>
